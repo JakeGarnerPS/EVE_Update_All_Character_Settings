@@ -1,26 +1,38 @@
-# EVE_Update_All_Character_Settings
-A quick script to mass updated all your characters, char and user files to match your main (selected) character settings
+Overview
+This script streamlines the process of updating all your characters' settings by aligning them with your main (selected) character's configurations. It's a quick solution for efficiently applying uniform settings across multiple characters, char, and user files.
 
+Created by JakeGarnerPS
+In-game character: Jeff Fastbender
 
-Follow the steps below for the script to work properly 
+While this script was crafted for enjoyment, please be aware that it may exhibit some quirks. If you encounter any issues, feel free to contact me in-game or through GitHub. Donations are appreciated but not mandatory.
 
-IMPORTANT!
-Make a backup of the file/folder you want to edit
-- Go to C:\Users\USERNAME\AppData\Local\CCP\EVE\c_ccp_eve_online_tq_tranquility
-- Make a copy of the folder you wish to edit
+Instructions
+Follow these steps to ensure the proper functioning of the script:
 
-- Open Eve client.
-- Launch the game with the character you wish to copy the settings from and login.
-- Once logged in, close the game down.
+Download: Obtain the main.dist folder, which contains the executable (.exe) file.
+Important: Create a backup of the file or folder you intend to modify.
 
-- Open settings folder that you made a copy of
-- Find the two most recent files core_char and core_user these are you character IDs
-- Copy down the two numbers (keep a note of which is the user and which is the char) and the folder path 
+Backup Existing Files:
 
-- Run the .exe
-- It will prompt you for the folder path, past in the folder path and press 'Enter'
-- It will then prompt you for the Character ID which is from the core_char file, paste in the number and press 'Enter'
-- It will then prompt you for the USer ID which is from the user filem, paste in the number and press 'Enter'
+Navigate to C:\Users\USERNAME\AppData\Local\CCP\EVE\c_ccp_eve_online_tq_tranquility.
+Create a copy of the folder you wish to modify.
+Launch EVE Client:
 
-- Now you are all done and your accounts should be updated, you can check by either logging in and looking or check the Date modified time (They will be what ever time you run the .exe)
- 
+Open the Eve client.
+Log in with the character whose settings you want to replicate.
+After logging in, close the game.
+Access Settings Folder:
+
+Open the copied settings folder.
+Identify the two most recent files: core_char and core_user. These represent your character IDs.
+Note down both numbers, distinguishing between the user and character IDs, and also record the folder path.
+Run the Script:
+
+Execute the .exe file.
+It will prompt you for the folder path; paste it in and press 'Enter'.
+Provide the Character ID (from core_char file) when prompted and press 'Enter'.
+Provide the User ID (from core_user file), paste the number, and press 'Enter'.
+Confirmation:
+
+The process is complete, and your accounts should be updated.
+Verify by either logging in and checking or examining the Date Modified time (it should reflect the time you ran the .exe).
