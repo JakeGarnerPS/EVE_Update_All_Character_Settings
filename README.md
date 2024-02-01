@@ -15,7 +15,7 @@ Important: Create a backup of the file or folder you intend to modify.
 Backup Existing Files:
 
 Navigate to C:\Users\USERNAME\AppData\Local\CCP\EVE\c_ccp_eve_online_tq_tranquility.
-Create a copy of the folder you wish to modify.
+Create a copy of the folder you wish to modify, normally this is settings_Default.
 Launch EVE Client:
 
 Open the Eve client.
