@@ -15,9 +15,9 @@ While this script was crafted for enjoyment, please be aware that it may exhibit
 
 Follow these steps to ensure the proper functioning of the script:
 
-1. **Download**: Obtain the `main.dist` folder, which contains the executable (.exe) file.
+1. **Download**: Obtain the `main.dist.zip` folder, which contains the executable (.exe) file. Extract the folder to a where ever you want it.
 
-   **Important**: Create a backup of the file or folder you intend to modify.
+   **Important**: Create a backup of the files or folder you intend to modify.
 
 2. **Backup Existing Files**:
    - Navigate to `C:\Users\USERNAME\AppData\Local\CCP\EVE\c_ccp_eve_online_tq_tranquility`.
